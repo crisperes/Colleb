@@ -1,0 +1,7 @@
+organization=crisperes
+projectKey=f5d1bcdc
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.40746
+dashboardUrl=https://sonarcloud.io/dashboard?id=f5d1bcdc
+ceTaskId=AYf9Yovn37zBO415AlzB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYf9Yovn37zBO415AlzB
